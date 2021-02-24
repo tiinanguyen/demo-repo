@@ -1,2 +1,0 @@
-- name: Lock Threads
-  uses: dessant/lock-threads@v2.0.1
