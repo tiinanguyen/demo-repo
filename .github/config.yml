@@ -16,7 +16,7 @@ probotTemplateEnforcerReplyComment: >
 # MUST BE ALL LOWERCASE
 probotTemplateEnforcerDefaultTitles:
   - describe the bug
-  - to reproduct
+  - to reproduce
   - expected behavior
   - screenshots
   - desktop (please complete the following information)
