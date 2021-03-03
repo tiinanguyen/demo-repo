@@ -15,8 +15,13 @@ requestInfoReplyComment: >
 # *OPTIONAL* default titles to check against for lack of descriptiveness
 # MUST BE ALL LOWERCASE
 requestInfoDefaultTitles:
-  - update readme.md
-  - updates
+  - describe the bug
+  - to reproduct
+  - expected behavior
+  - screenshots
+  - desktop (please complete the following information)
+  - Smartphone (please complete the following information)
+  - additional context
 
 # *OPTIONAL* Label to be added to Issues and Pull Requests with insufficient information given
 requestInfoLabelToAdd: status: needs-additional-info
